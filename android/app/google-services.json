@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "840881157355",
+    "firebase_url": "https://rainbet-c8909.firebaseio.com",
+    "project_id": "rainbet-c8909",
+    "storage_bucket": "rainbet-c8909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840881157355:android:811de838b945d789063aae",
+        "android_client_info": {
+          "package_name": "com.example.paisa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840881157355-po2imknnkao5oodl31i9b36tv1j9ta3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paisa",
+            "certificate_hash": "83c32addafdc41e79dc6ed244b9959070c7d7a89"
+          }
+        },
+        {
+          "client_id": "840881157355-ihkcumrqdhttj39stsii3k4qaihanm9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpw3eIQn62z9LIAVENTUeJwMJwKXNFGf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840881157355-ihkcumrqdhttj39stsii3k4qaihanm9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
